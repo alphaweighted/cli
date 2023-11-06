@@ -1,1 +1,1 @@
-# cli
+# AWTS CLI tool
